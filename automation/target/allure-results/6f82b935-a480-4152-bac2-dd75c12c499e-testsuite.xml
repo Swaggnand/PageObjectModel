@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1556448378608" stop="1556448525981" version="1.4.4">
+    <name>Default suite</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1556448419378" stop="1556448511618" status="passed">
+            <name>test1</name>
+            <steps>
+                <step start="1556448410381" stop="1556448410385" status="passed">
+                    <name>logReporter[Server is Reachable, true]</name>
+                    <title>Server is Reachable</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1556448418590" stop="1556448418590" status="passed">
+                    <name>logReporter[Open URL - 'https://www.flipkart.com/'., true]</name>
+                    <title>Open URL - 'https://www.flipkart.com/'.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1556448418595" stop="1556448418596" status="passed">
+                    <name>logReporter[Verified - eCW, true]</name>
+                    <title>Verified - eCW</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-76OOONA"/>
+                <label name="thread" value="9800@DESKTOP-76OOONA.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

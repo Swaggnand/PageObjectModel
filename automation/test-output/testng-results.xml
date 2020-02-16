@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Step Description--> Server is Reachable]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Open URL - 'https://www.flipkart.com/'.]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verified - eCW]]>
+    </line>
+  </reporter-output>
+  <suite name="tests" duration-ms="52454" started-at="2019-05-08T16:02:05Z" finished-at="2019-05-08T16:02:57Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="52454" started-at="2019-05-08T16:02:05Z" finished-at="2019-05-08T16:02:57Z">
+      <class name="com.ProjectName1.AppTest">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:com.ProjectName1.AppTest@7404ddca]" name="initializeEnvironment" is-config="true" duration-ms="37539" started-at="2019-05-08T16:02:05Z" finished-at="2019-05-08T16:02:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step Description--> Server is Reachable]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Open URL - 'https://www.flipkart.com/'.]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verified - eCW]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initializeEnvironment -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.ProjectName1.AppTest@7404ddca]" name="test1" duration-ms="492" started-at="2019-05-08T16:02:42Z" finished-at="2019-05-08T16:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="ref()[pri:0, instance:com.ProjectName1.AppTest@7404ddca]" name="ref" is-config="true" duration-ms="0" started-at="2019-05-08T16:02:42Z" finished-at="2019-05-08T16:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ref -->
+        <test-method status="PASS" signature="tearDownEnvironment()[pri:0, instance:com.ProjectName1.AppTest@7404ddca]" name="tearDownEnvironment" is-config="true" duration-ms="14258" started-at="2019-05-08T16:02:43Z" finished-at="2019-05-08T16:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEnvironment -->
+      </class> <!-- com.ProjectName1.AppTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- tests -->
+</testng-results>

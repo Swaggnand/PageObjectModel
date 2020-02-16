@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuite hostname="DESKTOP-76OOONA" ignored="0" name="Default test" tests="1" failures="0" timestamp="06 May 2019 14:44:20 GMT" time="29.087" errors="0">
+
+<suite name="tests" allow-return-values="true"
+    verbose="10">
+<listners>
+<listner class-name="com.generic.customreports"/>
+</listners>
+
+  <test thread-count="1" name="Test1">
+    <classes>
+      <class name="com.ProjectName1.AppTest">
+      </class> <!-- com.ProjectName1.AppTest -->
+    </classes>
+  </test>
+  </suite>
+</testsuite> 
