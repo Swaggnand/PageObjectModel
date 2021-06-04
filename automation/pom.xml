@@ -24,7 +24,7 @@
         <selenium.firefox.version>3.0.1</selenium.firefox.version>
         <selenium.chrome.version>3.0.1</selenium.chrome.version>
         <selenium.support.version>3.0.1</selenium.support.version>
-        <httpclient.version>4.3.5</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <!-- Testng -->
         <testng.version>6.9.10</testng.version>
         <!-- Excel -->
