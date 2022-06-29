@@ -14,7 +14,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- Excel -->
-		<poi.version>3.12</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<poi-ooxml.version>3.9</poi-ooxml.version>
 		<poi-ooxml-schemas.version>3.12</poi-ooxml-schemas.version>
 		<dom4j.version>1.6.1</dom4j.version>
