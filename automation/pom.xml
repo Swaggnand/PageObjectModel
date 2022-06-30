@@ -36,7 +36,7 @@
         <!-- CSV -->
         <commons.csv.version>1.4</commons.csv.version>
         <!-- Pdf -->
-        <itext.version>5.5.8</itext.version>
+        <itext.version>5.5.12</itext.version>
         <itext-lowagie.version>2.1.7</itext-lowagie.version>
         <!-- xml reporting -->
         <xml-apis.version>1.4.01</xml-apis.version>
